@@ -14,6 +14,14 @@
           "description": "它由所有触动过你的人，触动过你的事构成的，老马，史今，六一；老A，五班，七连；家国，情理，成败，荣辱，聚散，离合，衰老，年轻，死去，生来。",
           "icon": "/assets/cover/cover_1777875004342.png",
           "enabled": true
+        },
+        {
+          "id": "1777875495366",
+          "title": "【吸奇侠】《水浒传》武松的前半生，从天人到杀神！",
+          "href": "https://www.bilibili.com/video/BV16x411R7xk/?spm_id_from=333.1387.upload.video_card.click",
+          "description": "文案顶级、配乐绝佳，时常回味。",
+          "icon": "/assets/cover/cover_1777875516880.png",
+          "enabled": true
         }
       ],
       "subCategories": []
