@@ -1,8 +1,8 @@
 {
   "basic": {
-    "title": "NavSphere导航",
-    "description": "收集国内外优秀设计网站、UI设计资源网站、灵感创意网站、素材资源网站，定时更新分享优质产品设计书签。",
-    "keywords": "设计导航,设计资源,设计工具,设计素材,设计教程"
+    "title": "OneScreen",
+    "description": "这里是我数字生活的足迹。从 F1 数据分析到极简哲学，每一条链接都经过亲身验证，只为在繁杂的网络中保留最有价值的入口。",
+    "keywords": "个人导航, 常用网站, F1数据工具, 极简生活, 优质链接, 经验分享"
   },
   "appearance": {
     "logo": "/assets/images/alogo.webp",
