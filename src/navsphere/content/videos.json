@@ -9,10 +9,10 @@
       "items": [
         {
           "id": "1777874619242",
-          "title": "Bilibili",
-          "href": "https://www.bilibili.com/video/BV1o34y1Q7LM/?share_source=copy_web&vd_source=a131e091320d3135fb7a9b9d5c62edbe",
-          "description": "",
-          "icon": "/assets/favicon_1777874664247.png",
+          "title": "【士兵突击】不是一个兵王的故事",
+          "href": "https://www.bilibili.com/video/BV1o34y1Q7LM/?spm_id_from=333.1245.0.0",
+          "description": "它由所有触动过你的人，触动过你的事构成的，老马，史今，六一；老A，五班，七连；家国，情理，成败，荣辱，聚散，离合，衰老，年轻，死去，生来。",
+          "icon": "/assets/cover/cover_1777875004342.png",
           "enabled": true
         }
       ],
