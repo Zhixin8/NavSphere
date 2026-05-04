@@ -6,7 +6,21 @@
       "icon": "Home",
       "description": "不论是叙事内容还是其背后的深度，都是我认同且深受启发的佳作。",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1777874619242",
+          "title": "Bilibili",
+          "href": "https://www.bilibili.com/video/BV1o34y1Q7LM/?share_source=copy_web&vd_source=a131e091320d3135fb7a9b9d5c62edbe",
+          "description": "",
+          "icon": "/assets/favicon_1777874664247.png",
+          "enabled": true,
+          "videoConfig": {
+            "type": "bilibili",
+            "bvid": "1o34y1Q7LM",
+            "aid": "805521873"
+          }
+        }
+      ],
       "subCategories": []
     }
   ]
